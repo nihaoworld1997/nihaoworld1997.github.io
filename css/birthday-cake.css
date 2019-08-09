@@ -4,9 +4,9 @@ body {
 	height: 100%;
 	margin: 0;
 	overflow:hidden;
-	background: #ee9ca7;
-  background: -webkit-linear-gradient(top left, #ee9ca7 0%, #ee9ca7 100%);
-  background: linear-gradient(to bottom right, #ee9ca7 0%, #ee9ca7 100%);
+	background: #0daeee;
+  background: -webkit-linear-gradient(top left,#0daeee 0%, #0daeee 100%);
+  background: linear-gradient(to bottom right, #0daeee 0%, #0daeee 100%);
 }
 
 
@@ -302,7 +302,7 @@ body {
 	border-radius:30px;
 	font-size: 23px;
 	text-align:center;
-	background: #ee9ca7;
+	background: #0daeee;
 	transition:all 0.8s;
 }
 .link2 {
@@ -315,7 +315,7 @@ body {
 }
 
 a.lk1:hover {
-	color:#ee9ca7;
+	color#0daeee;
 	transition:all 0.5s;
 }
 .link1:hover {
@@ -325,7 +325,7 @@ a.lk1:hover {
 	transition:all 0.8s;
 }
 a.lk2:hover {
-	color:#ee9ca7;
+	color#0daeee;
 	transition:all 0.5s;
 }
 .link2:hover {
