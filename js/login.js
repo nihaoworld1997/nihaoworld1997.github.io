@@ -8,7 +8,7 @@ $('#login-button').click(function (event) {
 			$('.wrapper').addClass('form-success');
 			requestFullScreen();
 			setTimeout(function(){
-				location.href="BirthdayCake.html";
+				location.href="Memories.html";
 			},2000);
 		}
 	else{
