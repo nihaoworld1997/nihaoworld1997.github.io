@@ -8,9 +8,9 @@
 }
 
 .bgcolor {
-	  background: #ee9ca7;
-    background: -webkit-linear-gradient(top left, #ee9ca7 0%, #ee9ca7 100%);
-    background: linear-gradient(to bottom right, #ee9ca7 0%, #ee9ca7 100%);
+	  background: #0daeee;
+    background: -webkit-linear-gradient(top left,#0daeee 0%,#0daeee 100%);
+    background: linear-gradient(to bottom right,#0daeee 0%,#0daeee 100%);
     opacity: 0.9;
 }
 
